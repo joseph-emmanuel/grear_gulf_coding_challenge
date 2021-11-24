@@ -29,14 +29,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot_desktop.png)
-![](./screenshot_mobile.png)
+- Desktop Preview: ![](./screenshot_desktop.png)
+- Mobile Preview: ![](./screenshot_mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/joseph-emmanuel/great_gulf_coding_challenge)
-- Live Site URL: [Add live site URL here](https://testmonial-slider.web.app/)
-- Live Site URL: [Add live site URL here](https://joseph-emmanuel.github.io/great_gulf_coding_challenge/)
+- Solution URL: (https://github.com/joseph-emmanuel/great_gulf_coding_challenge)
+- Live Site URL: (https://testmonial-slider.web.app/)
+- Live Site URL: (https://joseph-emmanuel.github.io/great_gulf_coding_challenge/)
 
 ## My process
 
