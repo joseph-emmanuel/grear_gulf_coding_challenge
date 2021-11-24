@@ -79,9 +79,6 @@ html {
   font-weight: 500;
   display: block;
 }
-.card--two {
-  display: none;
-}
 .prev,
 .next {
   display: inline-block;
